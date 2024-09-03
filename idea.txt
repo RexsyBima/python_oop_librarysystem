@@ -1,0 +1,4 @@
+1. Kita punya sistem perpustakaan dimana User bisa meminjam sebuah atau banyak buku dan bisa mengembalikannya
+2. Di bagian User, harus memiliki identitas data nama, buku yg dipinjam apa
+3. didalam identitas buku, title, author, jumlah buku itu,
+Buku A ada 5 , 5 user bisa meminjam buku
